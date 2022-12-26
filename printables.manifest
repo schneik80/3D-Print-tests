@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"bdf95dfe-c7b5-453c-86da-22b7676b5afb",
+	"author":	"Autodesk",
+	"description":	{
+		"":	"Exports to Slicer for Fusion 360 (Make)"
+	},
+	"version":	"1.0",
+	"runOnStartup":	true,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
