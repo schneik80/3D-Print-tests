@@ -16,5 +16,5 @@ Models can be printed for:
 - X Y Resonaces
 - Z Resonance
 
-![Assesment Details](https://www.industrialmachinearts.com/printables.html)  
+[Assesment Details](https://www.industrialmachinearts.com/printables.html)  
 
